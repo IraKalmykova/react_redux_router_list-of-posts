@@ -1,0 +1,27 @@
+.form-update {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 15px;
+  flex: 0 0 100%;
+  padding-top: 25px;
+  position: relative;
+}
+
+.form__textarea {
+  min-height: 120px;
+  padding: 10px;
+  font-size: 16px;
+  width: 100%;
+  margin-bottom: 15px;
+  border: 2px solid #3eb0ef;
+}
+
+.form__input-update {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #3eb0ef;
+  width: 100%;
+  padding: 5px 0 5px 10px;
+  margin-bottom: 10px;
+}
