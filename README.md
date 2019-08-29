@@ -1,3 +1,5 @@
+[Demo](https://irakalmykova.github.io/react_redux_router_list-of-posts/#/)
+
 ## Task 
 
 Our blog going to have next pages:
@@ -5,7 +7,7 @@ Our blog going to have next pages:
 1. Latest Posts / -- List of all Posts, Post short description, author and publish date
 1. View Post /posts/:postId -- Post page
 
-####Features:
+###Features:
 
 1. View list of latest Posts
 1. View specific Post
